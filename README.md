@@ -17,4 +17,11 @@
 
 پیروز و سربلند باشید
 
+رابط کاربری اولیه ایجاد شده بر مبنای API نسخه 0.0.0
+
 ![Screenshot](https://botbat.ir/files/screenshot001.png)
+
+نمایش کلی زمین و بازیکننان ایجاد شده بر مبنای API نسخه 0.0.0
+
+![Screenshot](https://botbat.ir/files/screenshot002.png)
+
